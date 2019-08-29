@@ -1,4 +1,4 @@
-class Customer
+class Waiter
   attr_accessor :name, :age
  
   @@all = []
